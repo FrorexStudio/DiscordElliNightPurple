@@ -1,3 +1,6 @@
+@import "includes/badges";
+@import "includes/MemberCount";
+
 .appMount-2yBXZl {
     background-image: var(--theme-background-image);
     background-size: cover
@@ -876,4 +879,17 @@ html {
 
 .circleIconButton-1VxDrg {
     color: white
+}
+
+.botTagRegular-kpctgU {
+    background: var(--add-discover-icon-color);
+    color: #fff;
+}
+
+.numberBadge-37OJ3S,
+.textBadge-1fdDPJ {
+    background: var(--main-theme-color) !important;
+    color: #fff;
+    font-weight: 600;
+    transition: all .3s ease-in-out
 }

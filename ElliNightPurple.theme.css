@@ -9,11 +9,6 @@
 
 @import url(https://FrorexStudio.github.io/DiscordElliNightPurple/build/v1/css/enp.min.css);
 
-/*
-  To make editing this theme easier I recommend using Notepad++
-  you can download it for free here https://notepad-plus-plus.org/download/
-*/
-
 /* Any images you use MUST end with .jpg or .png or any other image extension */
 
 :root {
@@ -200,4 +195,12 @@
   --reaction-emoji-border-color: 1px solid transparent;
   --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
+
+  /* 
+    Badges
+  */
+  --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
+  --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
+  --badges-everywhere-size: 15px; /*default = 15px*/
+
 }
