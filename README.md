@@ -1,2 +1,3 @@
-# DiscordElliNightPurple
-Discord Theme for BetterDiscord
+<p align="center">
+<img src = "https://frorexstudio.github.io/DiscordElliNightPurple/images/Header.png">
+</p>
