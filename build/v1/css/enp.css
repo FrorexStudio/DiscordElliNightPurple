@@ -903,6 +903,10 @@ html {
   transition: all 0.3s ease-in-out;
 }
 
+.textBadge-1fdDPJ {
+  border-radius: 3px;
+}
+
 @-webkit-keyframes devbadge {
   0% {
     background-image: url("https://media.discordapp.net/attachments/756856464374628352/848838640197304341/thing1.png");
