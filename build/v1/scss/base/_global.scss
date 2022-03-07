@@ -888,5 +888,6 @@ html {
     background: var(--main-theme-color) !important;
     color: #fff;
     font-weight: 600;
-    transition: all .3s ease-in-out
+    transition: all .3s ease-in-out;
+    border-radius: 3px;
 }
